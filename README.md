@@ -1,7 +1,7 @@
 # Synthetic monitoring
 Synthetic monitoring is used to check the availability of a service, automated end-to-end testing is performanced on a regular interval (more frequency on critical paths) 24/7 from the end-user's perspective. This form of monitoring is effectively good for services with multiple failure points, especially for services which are heavily reliant on 3rd party services.
 
-![Image description](https://github.com/jaylensoeur/monitoring/e2e-point-of-failure.png)
+![Image description](https://github.com/jaylensoeur/monitoring/blob/master/e2e-point-of-failure.png)
 
 
 # Health checks
